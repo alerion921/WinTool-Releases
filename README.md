@@ -5,7 +5,7 @@ The archive will contain 3 files
 * AutoUpdater.exe
 * ThemeConfig.ini
 
-To fully activate WinTool and use all of the features includes you have to get a license.
+To fully activate WinTool and use all of the features included you have to get a license.
 
 You can get a license by applying for one inside the "Activate" form inside WinTool by clicking "Apply for license" and donate a sum of anything above 5$ or 5€.
 
