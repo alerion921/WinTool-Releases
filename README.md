@@ -7,7 +7,7 @@ The archive will contain 3 files
 
 To fully activate WinTool and use all of the features included you have to get a license.
 
-You can get a license by applying for one inside the "Activate" form inside WinTool by clicking "Apply for license" and donate a sum of anything above 5$ or 5€.
+You can get a license by applying for one inside the "Activate" form inside WinTool by clicking "Apply for license" and donating a sum of anything above 5$ or 5€.
 
 The license you will recieve is for 1 PC / Lifetime Access but it will be bound to your hardware, meaning that if you are to change hardware or your PC you need to contact me and i will need to reset your hardware id (there will be a fee of 5$ or 5€.
 
